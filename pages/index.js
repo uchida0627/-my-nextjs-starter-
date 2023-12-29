@@ -19,7 +19,7 @@ const Home = () => (
         );
       })}
     </div>
-      <p> this message is preview. </p>
+      <p>It is preview message</p>
   </div>
 );
 
