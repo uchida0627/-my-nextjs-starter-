@@ -19,6 +19,8 @@ const Home = () => (
         );
       })}
     </div>
+    <p>it is DevDev-branch message!</p>
+    <p>up date soon..</p>
   </div>
 );
 
